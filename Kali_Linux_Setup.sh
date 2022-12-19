@@ -1,10 +1,7 @@
 #!/bin/bash
 
 echo "
-              **Cyber Community**
-	     **Cyber Community**
-	    ##Cyber Community##
-	   ##Cyber Community## 
+              **github- boss-29** 
 "
 
 if [[ $EUID -eq 0 ]]; then
